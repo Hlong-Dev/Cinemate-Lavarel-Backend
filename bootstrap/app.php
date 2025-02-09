@@ -53,3 +53,6 @@ $app->singleton(
 */
 
 return $app;
+
+// Thay đổi cho commit #1: Initial commit
+// Ngày: 2025-04-08

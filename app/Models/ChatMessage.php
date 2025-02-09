@@ -36,3 +36,5 @@ class ChatMessage extends Model
         return $this->hasMany(ChatMessage::class, 'reply_to_id');
     }
 }
+// Thay đổi cho commit #1: Initial commit
+// Ngày: 2025-04-08

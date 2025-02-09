@@ -15,3 +15,6 @@ class Authenticate extends Middleware
         return $request->expectsJson() ? null : route('login');
     }
 }
+
+// Thay đổi cho commit #1: Initial commit
+// Ngày: 2025-04-08

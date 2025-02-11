@@ -190,3 +190,6 @@ return [
     ])->toArray(),
 
 ];
+
+// Thay đổi cho commit #2: Set up basic Laravel project structure
+// Ngày: 2025-04-06

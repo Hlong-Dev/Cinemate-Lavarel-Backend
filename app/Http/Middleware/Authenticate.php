@@ -18,3 +18,6 @@ class Authenticate extends Middleware
 
 // Thay đổi cho commit #1: Initial commit
 // Ngày: 2025-04-08
+
+// Thay đổi cho commit #2: Set up basic Laravel project structure
+// Ngày: 2025-04-06

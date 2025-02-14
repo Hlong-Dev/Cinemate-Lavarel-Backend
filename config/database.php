@@ -149,3 +149,6 @@ return [
     ],
 
 ];
+
+// Thay đổi cho commit #3: Implement User model and migration
+// Ngày: 2025-04-03

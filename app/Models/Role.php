@@ -21,3 +21,5 @@ class Role extends Model
         return $this->belongsToMany(User::class);
     }
 }
+// Thay đổi cho commit #4: Create authentication controllers
+// Ngày: 2025-04-01

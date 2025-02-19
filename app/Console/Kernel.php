@@ -31,3 +31,6 @@ class Kernel extends ConsoleKernel
         require base_path('routes/console.php');
     }
 }
+
+// Thay đổi cho commit #5: Add Room model and controller
+// Ngày: 2025-03-29

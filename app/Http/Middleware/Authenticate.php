@@ -21,3 +21,6 @@ class Authenticate extends Middleware
 
 // Thay đổi cho commit #2: Set up basic Laravel project structure
 // Ngày: 2025-04-06
+
+// Thay đổi cho commit #5: Add Room model and controller
+// Ngày: 2025-03-29

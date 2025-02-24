@@ -62,3 +62,5 @@ class VideoController extends Controller
     }
 }
 }
+// Thay đổi cho commit #7: Create chat message model and controllers
+// Ngày: 2025-03-24

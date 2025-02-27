@@ -38,3 +38,6 @@ class ChatMessage extends Model
 }
 // Thay đổi cho commit #1: Initial commit
 // Ngày: 2025-04-08
+
+// Thay đổi cho commit #8: Set up WebSocket service for real-time communication
+// Ngày: 2025-03-22

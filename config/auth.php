@@ -113,3 +113,6 @@ return [
     'password_timeout' => 10800,
 
 ];
+
+// Thay đổi cho commit #8: Set up WebSocket service for real-time communication
+// Ngày: 2025-03-22

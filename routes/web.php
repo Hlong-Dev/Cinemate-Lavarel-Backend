@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+// Thay đổi cho commit #9: Add AMQP service for message queuing
+// Ngày: 2025-03-19

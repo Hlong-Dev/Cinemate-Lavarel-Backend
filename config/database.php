@@ -152,3 +152,6 @@ return [
 
 // Thay đổi cho commit #3: Implement User model and migration
 // Ngày: 2025-04-03
+
+// Thay đổi cho commit #9: Add AMQP service for message queuing
+// Ngày: 2025-03-19

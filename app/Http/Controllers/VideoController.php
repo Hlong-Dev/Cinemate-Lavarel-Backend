@@ -64,3 +64,6 @@ class VideoController extends Controller
 }
 // Thay đổi cho commit #7: Create chat message model and controllers
 // Ngày: 2025-03-24
+
+// Thay đổi cho commit #10: Implement user authorization with roles
+// Ngày: 2025-03-17

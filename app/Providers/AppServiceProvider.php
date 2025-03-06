@@ -23,3 +23,6 @@ class AppServiceProvider extends ServiceProvider
         $webSocketService->configureWebSocket();
     }
 }
+
+// Thay đổi cho commit #11: Create middleware for authentication
+// Ngày: 2025-03-14

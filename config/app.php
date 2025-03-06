@@ -193,3 +193,6 @@ return [
 
 // Thay đổi cho commit #2: Set up basic Laravel project structure
 // Ngày: 2025-04-06
+
+// Thay đổi cho commit #11: Create middleware for authentication
+// Ngày: 2025-03-14

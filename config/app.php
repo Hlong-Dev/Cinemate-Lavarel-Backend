@@ -196,3 +196,6 @@ return [
 
 // Thay đổi cho commit #11: Create middleware for authentication
 // Ngày: 2025-03-14
+
+// Thay đổi cho commit #12: Add controllers for video management
+// Ngày: 2025-03-12

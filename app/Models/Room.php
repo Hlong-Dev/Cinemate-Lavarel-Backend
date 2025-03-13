@@ -24,3 +24,5 @@ class Room extends Model
         return $this->hasMany(ChatMessage::class, 'room_id');
     }
 }
+// Thay đổi cho commit #14: Set up user service and repository pattern
+// Ngày: 2025-03-07

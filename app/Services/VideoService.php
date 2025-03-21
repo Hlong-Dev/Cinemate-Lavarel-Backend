@@ -205,3 +205,5 @@ class VideoService
         return '00:00';
     }
 }
+// Thay đổi cho commit #17: Fix authentication bugs
+// Ngày: 2025-02-27

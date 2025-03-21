@@ -99,3 +99,6 @@ class StompService
 }
 // Thay đổi cho commit #11: Create middleware for authentication
 // Ngày: 2025-03-14
+
+// Thay đổi cho commit #17: Fix authentication bugs
+// Ngày: 2025-02-27

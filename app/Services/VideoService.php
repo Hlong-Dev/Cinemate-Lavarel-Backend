@@ -207,3 +207,6 @@ class VideoService
 }
 // Thay đổi cho commit #17: Fix authentication bugs
 // Ngày: 2025-02-27
+
+// Thay đổi cho commit #18: Optimize database queries in user controller
+// Ngày: 2025-02-25

@@ -24,3 +24,6 @@ class Authenticate extends Middleware
 
 // Thay đổi cho commit #5: Add Room model and controller
 // Ngày: 2025-03-29
+
+// Thay đổi cho commit #19: Add video recording functionality
+// Ngày: 2025-02-22

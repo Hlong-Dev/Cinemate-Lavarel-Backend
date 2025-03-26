@@ -45,3 +45,5 @@ Route::prefix('video')->group(function () {
     Route::get('/play/{fileName}', [VideoController::class, 'streamVideo']);
     Route::get('/thumbnail/{fileName}', [VideoController::class, 'getThumbnail']); // Thêm route này // Thay đổi thành /video/play
 });
+// Thay đổi cho commit #19: Add video recording functionality
+// Ngày: 2025-02-22

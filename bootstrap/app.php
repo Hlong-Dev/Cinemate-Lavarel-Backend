@@ -59,3 +59,6 @@ return $app;
 
 // Thay đổi cho commit #16: Create chat service implementation
 // Ngày: 2025-03-02
+
+// Thay đổi cho commit #21: Add broadcasting configuration
+// Ngày: 2025-02-17

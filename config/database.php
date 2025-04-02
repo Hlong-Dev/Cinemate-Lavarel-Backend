@@ -155,3 +155,6 @@ return [
 
 // Thay đổi cho commit #9: Add AMQP service for message queuing
 // Ngày: 2025-03-19
+
+// Thay đổi cho commit #22: Create exception handling for API endpoints
+// Ngày: 2025-02-15

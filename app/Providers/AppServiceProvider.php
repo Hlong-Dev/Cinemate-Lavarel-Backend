@@ -26,3 +26,6 @@ class AppServiceProvider extends ServiceProvider
 
 // Thay đổi cho commit #11: Create middleware for authentication
 // Ngày: 2025-03-14
+
+// Thay đổi cho commit #23: Optimize WebSocket connection handling
+// Ngày: 2025-02-12

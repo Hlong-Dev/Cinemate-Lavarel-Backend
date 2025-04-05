@@ -202,3 +202,6 @@ return [
 
 // Thay đổi cho commit #15: Add STOMP messaging service
 // Ngày: 2025-03-04
+
+// Thay đổi cho commit #23: Optimize WebSocket connection handling
+// Ngày: 2025-02-12

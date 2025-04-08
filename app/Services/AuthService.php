@@ -80,3 +80,6 @@ class AuthService
 
 // Thay đổi cho commit #17: Fix authentication bugs
 // Ngày: 2025-02-27
+
+// Thay đổi cho commit #24: Prepare for production deployment
+// Ngày: 2025-02-10

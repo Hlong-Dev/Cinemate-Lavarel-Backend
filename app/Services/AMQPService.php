@@ -5,7 +5,7 @@ namespace App\Services;
 use PhpAmqpLib\Connection\AMQPStreamConnection;
 use PhpAmqpLib\Message\AMQPMessage;
 use Illuminate\Support\Facades\Log;
-
+/** */
 class AMQPService
 {
     protected $connection;
@@ -13,7 +13,7 @@ class AMQPService
     
     public function __construct()
     {
-        // Khởi tạo nhưng chưa kết nối
+       
     }
     
     public function connectRabbitMQ()

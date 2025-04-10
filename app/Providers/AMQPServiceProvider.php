@@ -4,7 +4,7 @@ namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use App\Services\AMQPService;
-
+/** */
 class AMQPServiceProvider extends ServiceProvider
 {
     /**

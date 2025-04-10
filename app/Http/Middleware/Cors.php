@@ -15,7 +15,8 @@ class Cors
             'https://cinemate-lavarel.vercel.app',
             'https://cinemate-watch.vercel.app',
             'https://www.cinemate.website',
-            'https://cinemate.website', // Loại bỏ dấu '/' ở cuối
+            'https://cinemate.website',
+            'http://localhost:5173'  // Loại bỏ dấu '/' ở cuối
         ];
 
         // Xử lý preflight request

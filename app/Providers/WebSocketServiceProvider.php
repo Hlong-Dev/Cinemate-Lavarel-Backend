@@ -14,6 +14,7 @@ class WebSocketServiceProvider extends ServiceProvider
      *
      * @return void
      */
+    /** */
     public function register()
     {
         $this->app->singleton(WebSocketService::class, function ($app) {

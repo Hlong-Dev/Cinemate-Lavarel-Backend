@@ -8,7 +8,7 @@ use BeyondCode\LaravelWebSockets\WebSockets\WebSocketHandler;
 use Ratchet\ConnectionInterface;
 use Ratchet\RFC6455\Messaging\MessageInterface;
 use Illuminate\Support\Facades\Log;
-
+/** */
 class WebSocketService
 {
     protected $amqpService;
